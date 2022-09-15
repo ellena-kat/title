@@ -1,0 +1,24 @@
+h1
+{
+	color:  maroon;
+}
+
+body
+{
+	background-color: tan;
+
+}
+
+#carte
+{
+width: 800px;
+margin: 0 auto;
+background-color: ivory;
+text-align: center;
+align-content: center;
+}
+
+ul li
+{
+List-style-type: none;
+}
